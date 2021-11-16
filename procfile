@@ -1,0 +1,1 @@
+web: gunicorn WELACEIT.wsgi --log-file -
